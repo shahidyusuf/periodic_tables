@@ -1,5 +1,6 @@
 td:hover {
-    filter: brightness(100%);
+    background-color: rgb(red, green, blue);
+    filter: brightness(200%);
     color: transparent;
-transform: scale(1.4);
+transform: scale(1.7);
 }
